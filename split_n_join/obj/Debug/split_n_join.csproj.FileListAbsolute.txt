@@ -1,0 +1,9 @@
+D:\Small code\split&join\split_n_join\split_n_join\bin\Debug\split_n_join.exe.config
+D:\Small code\split&join\split_n_join\split_n_join\bin\Debug\split_n_join.exe
+D:\Small code\split&join\split_n_join\split_n_join\bin\Debug\split_n_join.pdb
+D:\Small code\split&join\split_n_join\split_n_join\obj\Debug\split_n_join.csprojResolveAssemblyReference.cache
+D:\Small code\split&join\split_n_join\split_n_join\obj\Debug\split_n_join.Form1.resources
+D:\Small code\split&join\split_n_join\split_n_join\obj\Debug\split_n_join.Properties.Resources.resources
+D:\Small code\split&join\split_n_join\split_n_join\obj\Debug\split_n_join.csproj.GenerateResource.Cache
+D:\Small code\split&join\split_n_join\split_n_join\obj\Debug\split_n_join.exe
+D:\Small code\split&join\split_n_join\split_n_join\obj\Debug\split_n_join.pdb
